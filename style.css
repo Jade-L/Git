@@ -1,0 +1,21 @@
+body {
+     background-image:url(http://img.jeuxvideo.fr/photo/02154196-photo-final-fantasy-xiii.jpg);
+     background-attachment: fixed;
+     background-size: 100%;
+     background-repeat: no-repeat;
+}
+
+#container {
+           background-color: #c6cbce;
+           border: solid #411d1f 5px;
+           position: absolute;
+           border-radius: 10px;
+           left: 50px;
+           padding-left: 10px;
+           padding-bottom: 10px;
+           padding-right: 10px;
+}
+
+.Shadow {
+     font-weight: bold;
+}
