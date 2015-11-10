@@ -1,0 +1,22 @@
+body {
+  background-color: #33CC33;
+}
+
+section {
+  background-color: white;
+}
+
+code {
+  background-color: #FF0000;
+  border: solid #FF0000;
+  border-radius: .625em
+}
+
+article {
+  text-align: center;
+  list-style: none;
+}
+
+li {
+  padding-bottom: 1.5%;
+}
